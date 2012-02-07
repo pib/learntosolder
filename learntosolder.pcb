@@ -1,12 +1,12 @@
 # release: pcb 20100929
-# date:    Mon Feb  6 20:19:40 2012
+# date:    Mon Feb  6 20:34:36 2012
 # user:    pib (Paul Bonser,,,)
 # host:    quanee
 
 # To read pcb files, the pcb version (or the git source date) must be >= the file version
 FileVersion[20100606]
 
-PCB["" 50000 100000]
+PCB["learntosolder" 50000 100000]
 
 Grid[1000.000000 0 0 0]
 Cursor[0 100000 0.000000]
